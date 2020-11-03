@@ -1,1 +1,1 @@
-# georgia-pipeline-ansible-vyos-vyos
+# georgia-pipeline-ansible-slim
